@@ -1,0 +1,5 @@
+modelo,parametros,f1_classe_1,roc_auc,acuracia_balanceada,acuracia
+k-NN,n_neighbors=15,0.419405,0.738447,0.631738,0.814469
+Árvore de decisão,max_depth=8,0.438723,0.743209,0.640863,0.818303
+Regressão logística,C=1.0,0.457286,0.771952,0.649995,0.819970
+Random Forest,max_depth=14,0.456335,0.782546,0.649479,0.820470
